@@ -21,10 +21,10 @@ In [the Training notebook](2_Training.ipynb) one finds selection of hyperparamet
 
 Four sample images were captioned, two in which the caption matches well, 
 
-![images/cows.png](images/cows.png)  ![images/tennis.png](images/tennis.png)
+![images/result1.png](images/result1.png)
 
 ...and two for which the caption doesn't match quite so well:
 
-![images/kids.png](images/kids.png)  ![images/bathroom.png](images/bathroom.png)
+![images/result2.png](images/result2.png)
 
 Steps for additional improvement would be exploring the optional validation task at the end of the training notebook, and also additional training.
